@@ -1,0 +1,20 @@
+body {
+background-color: pink;    
+}
+
+.name_of_objects
+{
+color: blue;    
+}
+
+h3
+{
+width: 100%;
+}
+
+.cameras 
+{
+width: 400px;
+height: 450px;
+border-color: black;    
+}
